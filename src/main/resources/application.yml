@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+aws:
+  region: ap-south-1
+  accessKey: YOUR_ACCESS_KEY
+  secretKey: YOUR_SECRET_KEY
+  bucketName: kyc-doc-bucket
