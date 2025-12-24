@@ -75,6 +75,9 @@ If any rule fails, the document is marked as **SUSPICIOUS**.
 
 ---
 
+<img width="1200" height="628" alt="aws-01-diagram" src="https://github.com/user-attachments/assets/bf1e898f-4214-43e2-baad-e877ef2d6210" />
+
+
 ## Step 7️⃣: API Details
 
 ### Base URL
@@ -92,7 +95,6 @@ curl -X POST http://localhost:8080/kyc/verify \
   -F "file=@pan_card.jpg"
 
 
-<img width="1200" height="628" alt="aws-01-diagram" src="https://github.com/user-attachments/assets/5cd355eb-f4d9-4683-ab02-8b25cc33a093" />
 
 
 
